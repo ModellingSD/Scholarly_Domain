@@ -1,3 +1,4 @@
+# Areas
 The five proposed Areas – input, research, output, documentation, and social context – form the uppermost and integral part of the SDM with the central Area being research. This bird’s eyes view reflects the cycle of scholarly work with its different phases of gathering input for research, the act of dealing with the input and the externalisation of results. 
 
 ## Input
