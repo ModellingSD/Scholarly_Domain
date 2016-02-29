@@ -28,7 +28,8 @@ decades.
 - Gerold Tschumpel, Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft, Deutschland
 
 # Presentations on Modelling the Scholarly Domain
-Gradmann, Stefan; Hennicke, Steffen; Tschumpel, Gerold; Dill, Kristin; Thoden, Klaus; Pichler, Alois; Morbindoni, Christian; Stiller, Juliane: Modelling the Scholarly Domain beyond Infrastructure. Vortrag auf der DHd in Leipzig. 2016
+- Gradmann, Stefan; Hennicke, Steffen; Tschumpel, Gerold; Dill, Kristin; Thoden, Klaus; Pichler, Alois; Morbindoni, Christian; Stiller, Juliane: Introduction and presentation of SDM. Vortrag auf dem DARIAH Workshop on Intelligent Annotations, Köln. http://www.hki.uni-koeln.de/sites/all/files/ThodenTschumpelSlides.pdf
+- Gradmann, Stefan; Hennicke, Steffen; Tschumpel, Gerold; Dill, Kristin; Thoden, Klaus; Pichler, Alois; Morbindoni, Christian; Stiller, Juliane: Modelling the Scholarly Domain beyond Infrastructure. Vortrag auf der DHd in Leipzig. 2016
 
 ## References
 We use a shared Zotero group to maintain our references: https://www.zotero.org/groups/modelling_the_scholarly_domain
