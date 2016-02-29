@@ -74,9 +74,9 @@ Making (intermediate) research results available to a wider audience such as the
 Making (intermediate) research results available on a more collaborative, continuous and social basis such as attending and speaking at meetings, conferences, scholarly associations and societies (cf. Palmer et al., 2009, 23-25).
 
 # References
-Palmer, C. L., Teffeau, L. C. and Pirmann, C. M. (2009), Scholarly information practices in the online environment: Themes from the literature and implications for library service development, OCLC Programs and Research, Dublin, OH. URL: http: // www. oclc. org/ content/ dam/ research/ publications/ library/ 2009/ 2009-02. pdf
+Palmer, C. L., Teffeau, L. C. and Pirmann, C. M. (2009), Scholarly information practices in the online environment: Themes from the literature and implications for library service development, OCLC Programs and Research, Dublin, OH. URL: http://www.oclc.org/content/dam/research/publications/library/2009/2009-02.pdf
 
-Bamboo, P. (2010), ‘Project bamboo scholarly practice report’. URL: https: // googledrive. com/ host/ 0B3zU098zQ8VMc2xfMUJZaWxXNWs/ wp- content/ uploads/ Project-Bamboo-Scholarly-Practices-Report. pdf
+Bamboo, P. (2010), ‘Project bamboo scholarly practice report’. URL: https://googledrive.com/host/0B3zU098zQ8VMc2xfMUJZaWxXNWs/wp- content/uploads/Project-Bamboo-Scholarly-Practices-Report.pdf
 
-Unsworth, J. (2000), ‘scholarly primitives: What methods do humanities researchers have in common, and how might our tools reflect this? part of a symposium on humanities computing: formal methods, experimental practice sponsored by king’s college, london, may 13, 2000.’. URL: http: // people. brandeis. edu/ ~ unsworth/ Kings. 5- 00/ primitives. html
+Unsworth, J. (2000), ‘scholarly primitives: What methods do humanities researchers have in common, and how might our tools reflect this? part of a symposium on humanities computing: formal methods, experimental practice sponsored by king’s college, london, may 13, 2000.’. URL: http://people.brandeis.edu/~unsworth/Kings.5-00/primitives.html
 
