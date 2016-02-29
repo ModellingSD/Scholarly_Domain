@@ -15,6 +15,11 @@ through the focus on the evolving scholarly practices at the heart of
 the transition that altered the humanities profoundly in the last
 decades.
 
+## Layers of abstraction
+1. Areas 
+2. Scholarly Primitives
+3. Scholarly Activties
+4. Scholarly Operations
 
 # Collaborators
 - Steffen Hennicke, Georg-Eckert-Institut, Leibniz-Institut für internationale Schulbuchforschung, Deutschland
