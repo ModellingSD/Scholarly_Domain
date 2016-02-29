@@ -28,6 +28,7 @@ decades.
 - Gerold Tschumpel, Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft, Deutschland
 
 # Presentations on Modelling the Scholarly Domain
+- Schreibman, Susan; Gradmann, Stefan; Hennicke, Steffen; Blanke, Tobias; Chambers, Sally; Dunning, Alastair; Gray, Jonathan; Lauer, Gerhard; Pichler, Alois; Renn, Jürgen; Morbidoni, Christian; Romary, Laurent; Sasaki, Felix; Warwick, Claire: Beyond Infrastructure: Modelling Scholarly Research and Collaboration. Vortrag auf der DH in Lincoln. 2013. http://dh2013.unl.edu/abstracts/ab-276.html
 - Gradmann, Stefan; Hennicke, Steffen; Tschumpel, Gerold; Dill, Kristin; Thoden, Klaus; Pichler, Alois; Morbindoni, Christian; Stiller, Juliane: Introduction and presentation of SDM. Vortrag auf dem DARIAH Workshop on Intelligent Annotations, Köln. http://www.hki.uni-koeln.de/sites/all/files/ThodenTschumpelSlides.pdf
 - Gradmann, Stefan; Hennicke, Steffen; Tschumpel, Gerold; Dill, Kristin; Thoden, Klaus; Pichler, Alois; Morbindoni, Christian; Stiller, Juliane: Modelling the Scholarly Domain beyond Infrastructure. Vortrag auf der DHd in Leipzig. 2016
 
