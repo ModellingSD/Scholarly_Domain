@@ -29,8 +29,8 @@ decades.
 
 # Presentations on Modelling the Scholarly Domain
 - Schreibman, Susan; Gradmann, Stefan; Hennicke, Steffen; Blanke, Tobias; Chambers, Sally; Dunning, Alastair; Gray, Jonathan; Lauer, Gerhard; Pichler, Alois; Renn, Jürgen; Morbidoni, Christian; Romary, Laurent; Sasaki, Felix; Warwick, Claire: Beyond Infrastructure: Modelling Scholarly Research and Collaboration. Vortrag auf der DH in Lincoln. 2013. http://dh2013.unl.edu/abstracts/ab-276.html
-- Gradmann, Stefan; Hennicke, Steffen; Tschumpel, Gerold; Dill, Kristin; Thoden, Klaus; Pichler, Alois; Morbindoni, Christian; Stiller, Juliane: Introduction and presentation of SDM. Vortrag auf dem DARIAH Workshop on Intelligent Annotations, Köln. http://www.hki.uni-koeln.de/sites/all/files/ThodenTschumpelSlides.pdf
-- Gradmann, Stefan; Hennicke, Steffen; Tschumpel, Gerold; Dill, Kristin; Thoden, Klaus; Pichler, Alois; Morbindoni, Christian; Stiller, Juliane: Modelling the Scholarly Domain beyond Infrastructure. Vortrag auf der DHd in Leipzig. 2016
+- Gradmann, Stefan; Hennicke, Steffen; Tschumpel, Gerold; Dill, Kristin; Thoden, Klaus; Pichler, Alois; Morbidoni, Christian; Stiller, Juliane: Introduction and presentation of SDM. Vortrag auf dem DARIAH Workshop on Intelligent Annotations, Köln. http://www.hki.uni-koeln.de/sites/all/files/ThodenTschumpelSlides.pdf
+- Gradmann, Stefan; Hennicke, Steffen; Tschumpel, Gerold; Dill, Kristin; Thoden, Klaus; Pichler, Alois; Morbidoni, Christian; Stiller, Juliane: Modelling the Scholarly Domain beyond Infrastructure. Vortrag auf der DHd in Leipzig. 2016
 
 ## References
 We use a shared Zotero group to maintain our references: https://www.zotero.org/groups/modelling_the_scholarly_domain
