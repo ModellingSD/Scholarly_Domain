@@ -1,9 +1,18 @@
-# Input
+The five proposed Areas – input, research, output, documentation, and social context – form the uppermost and integral part of the SDM with the central Area being research. This bird’s eyes view reflects the cycle of scholarly work with its different phases of gathering input for research, the act of dealing with the input and the externalisation of results. 
 
-# Research
+## Input
+Input covers all activities and objects that deal with the exploration and aggregation of material that will be used for research. For example, activities such as searching the Web or browsing library shelves, the excavation at an archaeological site, or the selection and assessment of objects relevant for the research at one’s desk.
 
-# Output
+## Research
+The research Area focuses on those elements which constitute scholarly research at its core. Apart from the Primitives present on this layer there are three additional constituents in the Research Area - the corpus,  referential data and referential structures. Within the SDM, the research process begins with creating the corpus and contextualising its elements using referential data and structures. The basic process underlying contextualisation within the framework of the SDM is the Primitive interpretative modelling, as it is underlying all scholarly research, representing the process of ’understanding’ the corpus and its constituents for the purposes of the research process.
 
-# Documentation
+sources the scholar decides to work with. The SDM refrains from specifying anything particular about the consistence of the corpus but it might contain any sort of information objects, and any sort of data that are manageable by machines including their metadata and data model. Adding objects to and removing from the corpus might be as simple as bookmarking a page in the Web browser or returning a book to the library or as hard as excavating the ruins of a Roman temple.
 
-# Social context
+## Output
+Final and intermediate results of research are shared and disseminated as output. Information that has been refined during research is now being externalised as a stable and citable information object, irrespective of its material carrier, that becomes subject to reference for either private use, limited sharing within groups, or general publication. The potential of this externalisation to enter subsequent iterations of the research cycle is assessed. Output typically entails also a change in availability of these research results: what has been kept in seclusion until now or has been shared with only a few colleagues and members of working groups is released to the public.
+
+## Documentation
+The Area of documentation reflects on the fact that research involves the externalisation of a form of meta-discourse to create accountability, transparency and the ability to retrace the single steps of research. This may include informal exchanges related to research progress and also formal reports that need to be given to funding agencies. Taking the digital humanities as an example, correspondence via email about research, the keeping of notebooks and comments made when checking in source code into version control are important forms of documentation. Also, documentation facilitates the interpretation of research processes and results over time in creating a narrative context, which itself may become subject of research. Furthermore, there is a need for a discourse about research itself in science studies as well as in the history of science, and documentation provides the material basis for this discourse.
+
+## Social context
+The Area of social context reflects on the fact that research is determined by the socio-historical situation in which it occurs. This includes such factors as domain specific research practices, the customs of research communities as well as national and international academic cultures. The SDM accounts for this by acknowledging the existence of the social context and that it affects the activities carried out by researchers. Especially in interdisciplinary endeavours, social influences such as research practices are important, a fact that is overlooked easily by ongoing infrastructure projects.
