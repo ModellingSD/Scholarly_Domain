@@ -21,11 +21,15 @@ decades.
 3. Scholarly Activties
 4. Scholarly Operations
 
-# Collaborators
-- Steffen Hennicke, Georg-Eckert-Institut, Leibniz-Institut für internationale Schulbuchforschung, Deutschland
-- Juliane Stiller, Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft, Berlin, Deutschland
-- Klaus Thoden, Max-Planck-Institut für Wissenschaftsgeschichte, Berlin, Deutschland
-- Gerold Tschumpel, Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft, Deutschland
+# Contributors
+- Stefan Gradmann, KU Leuven, Belgium
+- Steffen Hennicke, Georg-Eckert-Institut, Leibniz-Institut für internationale Schulbuchforschung, Germany
+- Gerold Tschumpel, Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft, Germany
+- Kristin Dill, Universität Vienna, Austria
+- Klaus Thoden, Max-Planck-Institut für Wissenschaftsgeschichte, Berlin, Germany
+- Alois Pichler, Universität Bergen, Norway
+- Christian Morbindoni, Semedia, Universita Politecnica della Marche, Ancona, Italy
+- Juliane Stiller, Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft, Berlin, Germany
 
 # Presentations on Modelling the Scholarly Domain
 - Schreibman, Susan; Gradmann, Stefan; Hennicke, Steffen; Blanke, Tobias; Chambers, Sally; Dunning, Alastair; Gray, Jonathan; Lauer, Gerhard; Pichler, Alois; Renn, Jürgen; Morbidoni, Christian; Romary, Laurent; Sasaki, Felix; Warwick, Claire: Beyond Infrastructure: Modelling Scholarly Research and Collaboration. Vortrag auf der DH in Lincoln. 2013. http://dh2013.unl.edu/abstracts/ab-276.html
